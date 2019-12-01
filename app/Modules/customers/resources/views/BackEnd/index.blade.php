@@ -1,0 +1,1 @@
+backend  {{ __('customers::index.index') }}
